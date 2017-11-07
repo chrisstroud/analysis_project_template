@@ -23,4 +23,4 @@ $ conda install cookiecutter
 ### To start a new project, run:
 ------------
 
-    cookiecutter https://github.com/xola/data_analysis/analysis_project_template
+    cookiecutter https://github.com/xola/data_analysis/project_template
